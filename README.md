@@ -27,7 +27,7 @@ Make sure you have the following installed:
   - Install the **Desktop development with C++** workload in Visual Studio Build Tools.
   - Install **CMake** from [CMake website](https://cmake.org/download/).
 - **Datasets for Pre-trained Models**:
-  - Download the following pre-trained models and place them in the `flask-backend/models` directory:
+  - Download the following pre-trained models and place them in the `flask-backend` directory:
     1. [dlib_face_recognition_resnet_model_v1.dat](https://github.com/ageitgey/face_recognition_models/blob/master/face_recognition_models/models/dlib_face_recognition_resnet_model_v1.dat)
     2. [shape_predictor_68_face_landmarks.dat](https://github.com/ageitgey/face_recognition_models/blob/master/face_recognition_models/models/shape_predictor_68_face_landmarks.dat)
 
