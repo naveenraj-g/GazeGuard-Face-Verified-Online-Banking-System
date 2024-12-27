@@ -3,6 +3,9 @@
 ## Project Description
 GazeGuard is an online banking system that uses face verification for secure user authentication. Users can register their faces during signup or later in their profile. The system ensures secure login using face recognition, alongside traditional password-based authentication.
 
+## About me in thi project
+I have recently learned frontend development and applied my knowledge to this project. While I have focused on building the user interface and implementing functionality, please note that the security features are not fully optimized yet, as I am still in the learning phase of web application security.
+
 ## Folder Structure
 ```
 GazeGuard
