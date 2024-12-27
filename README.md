@@ -28,8 +28,8 @@ Make sure you have the following installed:
   - Install **CMake** from [CMake website](https://cmake.org/download/).
 - **Datasets for Pre-trained Models**:
   - Download the following pre-trained models and place them in the `flask-backend/models` directory:
-    1. [dlib_face_recognition_resnet_model_v1.dat](http://dlib.net/files/dlib_face_recognition_resnet_model_v1.dat.bz2)
-    2. [shape_predictor_68_face_landmarks.dat](http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2)
+    1. [dlib_face_recognition_resnet_model_v1.dat]([http://dlib.net/files/dlib_face_recognition_resnet_model_v1.dat.bz2](https://github.com/ageitgey/face_recognition_models/blob/master/face_recognition_models/models/dlib_face_recognition_resnet_model_v1.dat))
+    2. [shape_predictor_68_face_landmarks.dat]([http://dlib.net/files/shape_predictor_68_face_landmarks.dat.bz2](https://github.com/ageitgey/face_recognition_models/blob/master/face_recognition_models/models/shape_predictor_68_face_landmarks.dat))
 
 ---
 
