@@ -25,7 +25,7 @@ Make sure you have the following installed:
 - **Git**
 - **C++ Build Tools** (for dlib installation):
   - Install the **Desktop development with C++** workload in Visual Studio Build Tools.
-  - Install **CMake** from [CMake website](https://cmake.org/download/" target="_blank").
+  - Install **CMake** from [CMake website](<a href="https://cmake.org/download/" target="_blank">Link</a>).
 - **Datasets for Pre-trained Models**:
   - Download the following pre-trained models and place them in the `flask-backend/models` directory:
     1. [dlib_face_recognition_resnet_model_v1.dat](http://dlib.net/files/dlib_face_recognition_resnet_model_v1.dat.bz2\" target=\"_blank\"
