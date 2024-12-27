@@ -1,0 +1,122 @@
+.appRightCon {
+  padding: 3rem;
+}
+
+.transferCon {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 1rem;
+}
+
+.accountDetails {
+  background-color: #000;
+  color: #fff;
+  padding: 1rem;
+  border-radius: 0.4rem;
+}
+
+.accountDetails > h2 {
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
+
+.accountDetails .bal {
+  font-size: 0.7rem;
+  margin-bottom: 0.4rem;
+}
+
+.accountDetails > h1 {
+  font-size: 1.8rem;
+  color: #b5f2e5;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 1.4rem;
+  margin-bottom: 1.2rem;
+}
+
+.accNo {
+  margin-bottom: 1.4rem;
+}
+
+.accountDetails > h3 {
+  font-size: 0.7rem;
+  margin-bottom: 0.2rem;
+}
+
+.accountDetails > p {
+  font-size: 1.2rem;
+  letter-spacing: 0.2rem;
+}
+
+.transferFormCon > form {
+  display: flex;
+  flex-direction: column;
+  gap: 1.2rem;
+}
+
+.transferFormCon > form > input {
+  padding: 0.8rem 0.6rem;
+  border-radius: 0.6rem;
+  border: 1px solid #ccc;
+  outline: none;
+}
+
+.btnCon {
+  display: flex;
+  gap: 1rem;
+}
+
+form button[type="submit"] {
+  background-color: #000;
+  padding: 0.6rem;
+  color: #fff;
+  border-radius: 0.4rem;
+}
+
+.recentTnx {
+  margin-top: 4rem;
+}
+
+.recentTnx > h2 {
+  margin-bottom: 1.2rem;
+  font-size: 1.4rem;
+}
+
+.tnxs {
+  display: flex;
+  flex-direction: column;
+  gap: 1.6rem;
+}
+
+.tnx {
+  width: 100%;
+  border-bottom: 1px solid #d4d4d4;
+  padding-bottom: 1rem;
+}
+
+.tnx > p {
+  font-size: 1rem;
+  margin-bottom: 0.4rem;
+}
+
+.tnxDetails {
+  display: flex;
+  justify-content: space-between;
+  gap: 10rem;
+}
+
+.mainDet {
+  font-weight: 600;
+}
+
+.subDet {
+  font-size: 0.8rem;
+  color: #7a7a7a;
+}
+
+.dep {
+  color: green;
+}
+
+.wit {
+  color: red;
+}

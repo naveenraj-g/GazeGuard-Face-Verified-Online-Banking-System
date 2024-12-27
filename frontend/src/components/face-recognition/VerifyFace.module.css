@@ -1,0 +1,21 @@
+.verifyFaceCon {
+  margin-top: 4rem;
+  text-align: center;
+  display: grid;
+  place-items: center;
+  color: #fff;
+  gap: 3rem;
+}
+
+.verifyFaceCon > h2 {
+  font-size: var(--size-4xl);
+}
+
+.verifyFaceCon > button {
+  color: #2b2a2a;
+  background-color: #caff33;
+  width: fit-content;
+  border-radius: 100rem;
+  padding: 0.8rem 1.2rem;
+  font-size: 1.4rem;
+}

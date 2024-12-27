@@ -1,0 +1,103 @@
+.appRightCon {
+  padding: 3rem;
+}
+
+.accountsAndCardTitle {
+  font-size: 1.3rem;
+  margin-bottom: 1.4rem;
+}
+
+.cards {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin-bottom: 3.8rem;
+}
+
+.accountCard {
+  background-color: #000;
+  padding: 1rem;
+  color: #fff;
+  border-radius: 0.4rem;
+}
+
+.accType {
+  font-size: 1.4rem;
+  margin-bottom: 1rem;
+}
+
+.accCardDesc {
+  font-size: 0.8rem;
+  margin-bottom: 0.2rem;
+}
+
+.accountCard > h2 {
+  font-size: 1.8rem;
+  color: #b5f2e5;
+  padding-bottom: 1.2rem;
+  border-bottom: 1px solid #ccc;
+}
+
+.incExp {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+.incExpBreakThrough {
+  padding: 0.4px;
+  background-color: #ccc;
+}
+
+.incExpLogo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.2rem;
+}
+
+.incomeIcon {
+  color: rgb(6, 179, 6);
+  font-size: 1.2rem;
+}
+
+.expIcon {
+  color: rgb(247, 36, 36);
+  font-size: 1.2rem;
+}
+
+.accountDetailsCard {
+  padding: 1rem;
+  background-color: #fec0a7;
+  color: #000;
+  border-radius: 0.4rem;
+}
+
+.accountDetailsCardLogo {
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.8rem;
+  margin-bottom: 1rem;
+}
+
+.accountDetailCardLogo {
+  color: #fda47f;
+}
+
+.accNoLabel {
+  font-size: 0.8rem;
+}
+
+.accNo {
+  font-size: 1.4rem;
+  margin-bottom: 1rem;
+}
+
+.userName {
+  margin-bottom: 0.6rem;
+}
+
+.createdDateLabel {
+  font-size: 0.8rem;
+}

@@ -1,0 +1,77 @@
+.signupCon {
+  color: #fff;
+  text-align: center;
+  background-color: #2b2a2a;
+  margin-top: 4rem !important;
+  padding: 6rem !important;
+  border-radius: 1rem;
+}
+
+.signupCon > h2 {
+  color: #caff33;
+  font-size: var(--size-4xl);
+  margin-bottom: 0.6rem;
+}
+
+.signupCon > p {
+  color: #ccc;
+  margin-bottom: 3.2rem;
+}
+
+.signupCon > form {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.signupCon > form > input {
+  padding: 1rem;
+  border-radius: 1.6rem;
+  background-color: #1e1e1e;
+  border: none;
+  font-size: var(--size-md);
+  color: #fff;
+}
+
+.signupCon > form > input::placeholder {
+  color: #7a7a7a;
+}
+
+.signupCon > form > input:focus {
+  outline: none;
+}
+
+.gotoCon {
+  grid-column: 1 / 3;
+  margin-top: 2.6rem;
+}
+
+.forgetPass {
+  text-decoration: underline;
+  margin-bottom: 3rem;
+}
+
+.signupCon .btnCon {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 1rem;
+}
+
+.signupCon .btnCon > button {
+  min-width: 20rem;
+  border-radius: 100rem;
+  padding: 0.6rem;
+}
+
+.signupBtn {
+  color: #2b2a2a;
+  background-color: #caff33;
+}
+
+.loginBtn {
+  background-color: #1e1e1e;
+  padding: 0.8rem !important;
+}

@@ -1,0 +1,35 @@
+.appHomeCon {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.appHomeUser {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.userLogoCon {
+  width: fit-content;
+  border-radius: 50%;
+  padding: 2rem 1.6rem;
+  background-color: #ccc;
+  margin-bottom: 0.2rem;
+}
+
+.userLogoCon > p {
+  font-size: 2.8rem;
+  font-weight: 600;
+  color: #5a5a5a;
+}
+
+.userName {
+  margin-bottom: 1rem;
+}
+
+.bankNameSpc {
+  color: orangered;
+}

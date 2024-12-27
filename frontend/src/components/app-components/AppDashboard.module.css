@@ -1,0 +1,11 @@
+.appRightCon {
+  padding: 3rem;
+}
+
+.moneySent {
+  margin-top: 4.4rem;
+}
+
+.moneySent > h3 {
+  margin-bottom: 1rem;
+}
