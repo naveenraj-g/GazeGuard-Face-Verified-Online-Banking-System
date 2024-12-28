@@ -26,7 +26,7 @@ app.get("/", (req, res) => {
     res.send("<h1>Hello from node API</h1>")
 });
 
-mongoose.connect("mongodb+srv://naveengl2002:PnzlyfGKjDmmdzth@banking-bg.d8ttu.mongodb.net/?retryWrites=true&w=majority&appName=banking-bg")
+mongoose.connect("Use Your's MongoDB Atlas")
     .then(() => {
         console.log("Connected to database!");
     })
